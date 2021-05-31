@@ -26,4 +26,16 @@ Git is set up to greatly minimize the possibility of irreversible damage to file
 #### States
 Files in Git can reside in three main states: committed, modified and staged
 
+### Workflow
 
+**The local Git repository has three components:**
+
+Working Directory: The actual files reside here.
+Index: The area used for staging
+Head: Points to the most recent commit
+
+### Remote Repositories
+In order to collaborate on Git projects, you must interact with remote repositories, versions of a project residing online or on a network. You can work with multiple repositories, for which you can have read/write or read-only privileges. Teams can use remote repositories to push information to and pull data from.
+
+#### Cloned Repositories
+As mentioned earlier, for cloned repositories, Git will automatically give the name “origin” to the server from which you cloned and the name “master” to your local branch
