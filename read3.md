@@ -30,4 +30,3 @@ element the element contain open and close tag and betwen it there is a content.
 Semantics is the study of meaning in language.
 and in the programming its refers to the meaning of a piece of code
 
-| 4. [Structure web pages with HTML](https://oqlaalrefai.github.io/firstproject/reading_structureWeb_html) |
