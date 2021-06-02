@@ -9,5 +9,5 @@ CAD is now being used extensively in biomedical engineering in applications rang
 | 1. [growth mindset](https://oqlaalrefai.github.io/reading-notes/growth) |
 | 2. [markdown](https://oqlaalrefai.github.io/reading-notes/read1) |
 | 3. [Git](https://oqlaalrefai.github.io/reading-notes/read2) |
-| 4. [Structure web pages with HTML](https://oqlaalrefai.github.io/reading-notes/reading_structureWeb_html) |
+| 4. [Structure web pages with HTML](https://oqlaalrefai.github.io/reading-notes/read3) |
 | 5. [javascript](https://oqlaalrefai.github.io/reading-notes/read4) |
