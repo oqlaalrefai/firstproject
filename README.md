@@ -13,3 +13,4 @@ CAD is now being used extensively in biomedical engineering in applications rang
 | 5. [javascript](https://oqlaalrefai.github.io/reading-notes/read4) |
 | 6. [JS Operators and Loops](https://oqlaalrefai.github.io/reading-notes/read5) |
 | 7. [CSS](https://oqlaalrefai.github.io/reading-notes/read6) |
+| 8. [function JS](https://oqlaalrefai.github.io/reading-notes/read6) |
