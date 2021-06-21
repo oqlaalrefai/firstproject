@@ -21,9 +21,6 @@ this is my summary
 | # Table Of Content for code 201 |
 | ----------- |
 | 1. [HTML](https://oqlaalrefai.github.io/reading-notes/read8) |
-
 | 2. [Java Script introduction](https://oqlaalrefai.github.io/reading-notes/read9) |
-
 | 3. [HTML text and intro to css ](https://oqlaalrefai.github.io/reading-notes/read10)|
-
 | 4. [Basics,Decission and loops ](https://oqlaalrefai.github.io/reading-notes/read11) |
