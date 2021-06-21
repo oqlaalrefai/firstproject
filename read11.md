@@ -40,7 +40,7 @@ var colors =new Array('white ' ,'black','custom ' );
 - length holds the number of items in the array
 - you can change the value of elemnt inside the array using this technique :
 x[2] = 'new value';
-- An expression evaluates into (results in) a single value. Broadly speaking there are two types of expressions
+
 ### operators 
 - ASSIGNMENT OPERATORS
 Assign a value to a variable color = 'beige';
