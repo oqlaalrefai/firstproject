@@ -36,3 +36,5 @@ this is my summary
 |  |
 | 8. [Object & DOM ](https://oqlaalrefai.github.io/reading-notes/read15) |
 |  |
+| 9. [Table & object model ](https://oqlaalrefai.github.io/reading-notes/read16) |
+|  |
