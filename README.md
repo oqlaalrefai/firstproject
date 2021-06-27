@@ -34,3 +34,5 @@ this is my summary
 |  |
 | 7. [Text & color & font ](https://oqlaalrefai.github.io/reading-notes/read14) |
 |  |
+| 8. [Object & DOM ](https://oqlaalrefai.github.io/reading-notes/read15) |
+|  |
