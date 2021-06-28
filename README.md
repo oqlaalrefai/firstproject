@@ -38,3 +38,5 @@ this is my summary
 |  |
 | 9. [Table & object model ](https://oqlaalrefai.github.io/reading-notes/read16) |
 |  |
+| 10. [layout ](https://oqlaalrefai.github.io/reading-notes/read17) |
+|  |
