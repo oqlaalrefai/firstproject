@@ -42,5 +42,7 @@ this is my summary
 |  |
 | 11. [Lists, Tables,Forms &form control ](https://oqlaalrefai.github.io/reading-notes/read18) |
 |  |
-| 11. [Error Handling & Debugging ](https://oqlaalrefai.github.io/reading-notes/read19) |
+| 12. [Error Handling & Debugging ](https://oqlaalrefai.github.io/reading-notes/read19) |
+|  |
+| 13. [image &practical information ](https://oqlaalrefai.github.io/reading-notes/read20) |
 |  |
