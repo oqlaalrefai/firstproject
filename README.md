@@ -48,3 +48,5 @@ this is my summary
 |  |
 | 14. [Article ](https://oqlaalrefai.github.io/reading-notes/read21) |
 |  |
+| 15. [local storage ](https://oqlaalrefai.github.io/reading-notes/read22) |
+|  |
