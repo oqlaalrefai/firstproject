@@ -46,3 +46,5 @@ this is my summary
 |  |
 | 13. [image &practical information ](https://oqlaalrefai.github.io/reading-notes/read20) |
 |  |
+| 14. [Article ](https://oqlaalrefai.github.io/reading-notes/read21) |
+|  |
