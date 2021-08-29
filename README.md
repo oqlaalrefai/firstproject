@@ -58,5 +58,7 @@ this is my summary
 | ----------- |
 | 1. [components and props](https://oqlaalrefai.github.io/reading-notes/read_1) |
 |  |
+| 2. [React lifecycle](https://oqlaalrefai.github.io/reading-notes/read_2) |
+|  |
 
 ## **Code 401 - Advanced Software Development**
