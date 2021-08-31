@@ -60,5 +60,7 @@ this is my summary
 |  |
 | 2. [React lifecycle](https://oqlaalrefai.github.io/reading-notes/read_2) |
 |  |
+| 2. [read_3](https://oqlaalrefai.github.io/reading-notes/read_3) |
+|  |
 
 ## **Code 401 - Advanced Software Development**
