@@ -35,7 +35,7 @@ const b = {y: "y-data"}
 const xydata = {...a,...b}
 ```
 |------------------------------------|
-#
+# How to Pass Functions Between Components
 
 ### 1-in the video, what is the first step that the developer does to pass functions between components?
  created a new thing (variable or attribute) to send as a prop to send to the child component
