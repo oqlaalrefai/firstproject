@@ -57,12 +57,12 @@ this is my summary
 |  ## **Code 301 Intermediate Software Development** |                                                        |
 | ----------------- | --------------------------------------------------------------------------------------- |
 | Num               | Link                                                                                    |
-| 1                 | [read_1](https://oqlaalrefai.github.io/reading-notes/read_1)              |
-| 2                 | [read_2](https://oqlaalrefai.github.io/reading-notes/read_2)                   |
+| 1                 | [read_1](https://oqlaalrefai.github.io/reading-notes/read_1)                            |
+| 2                 | [read_2](https://oqlaalrefai.github.io/reading-notes/read_2)                            |
 | 3                 | [read_3](https://oqlaalrefai.github.io/reading-notes/read_3)                            |
 | 4                 | [read_4](https://oqlaalrefai.github.io/reading-notes/read_4)                            |
 | 5                 | [read_5](https://oqlaalrefai.github.io/reading-notes/read_5)                            |
-| 6                 | [read_5](https://oqlaalrefai.github.io/reading-notes/read_6)                            |
-
+| 6                 | [read_6](https://oqlaalrefai.github.io/reading-notes/read_6)                            |
+| 6                 | [read_7](https://oqlaalrefai.github.io/reading-notes/read_7)                            |
 
 ## **Code 401 - Advanced Software Development**
