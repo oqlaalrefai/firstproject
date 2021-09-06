@@ -33,9 +33,10 @@
   - Social skills.
   - Job interview readiness.
   - Work environment readiness.
-3- In your experience, which of these reasons have you found most beneficial?
+
+2- In your experience, which of these reasons have you found most beneficial?
 
   - Social skills, Job interview readiness and Work environment readiness.
 
-2- How does pair programming work?
+3- How does pair programming work?
   - well we have the navigator who tells what to do and we have the driver who do what he told to do.
