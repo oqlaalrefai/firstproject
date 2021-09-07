@@ -1,3 +1,5 @@
+# Functional Programming Concepts
+
 ### What is Functional Programming?
 a style of building app structure that focuses more on the mathematical functions and less on changing state and mutable items.
 
