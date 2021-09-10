@@ -67,4 +67,5 @@ this is my summary
 | 8                 | [read_8](https://oqlaalrefai.github.io/reading-notes/read_8)                            |
 | 9                 | [read_9](https://oqlaalrefai.github.io/reading-notes/read_9)                            |
 | 10                | [read_10](https://oqlaalrefai.github.io/reading-notes/read_10)                          |
+| 11                | [read_11](https://oqlaalrefai.github.io/reading-notes/read_11)                          |
 ## **Code 401 - Advanced Software Development**
