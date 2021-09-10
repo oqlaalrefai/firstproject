@@ -2,7 +2,7 @@
 
 
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
-| ### sql           | ### nosql                                                                                                          |
+|     sql           |     nosql                                                                                                          |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
 | Relational Databases (RDBMS);| non-relational or distributed database.                                                                 |
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -16,18 +16,23 @@
 | ----------------- | ------------------------------------------------------------------------------------------------------------------ |
 
 
-1- ### What kind of data is a good fit for an SQL database?
-  - SQL Databases are best fit for heavy duty transactional type applications, as it is more stable and promises the atomicity as well as integrity of the dat
-2- ### Give a real world example.
-  - Oracle.
-3- ### What kind of data is a good fit a NoSQL database?
-  - NoSQL databases are fit for transactional applications.
-4- ### Give a real world example.
-  - Amazon
-5- ### Which type of database is best for hierarchical data storage?
-  - NoSQL
-6- ### Which type of database is best for scalability?
-  - SQL
+###  What kind of data is a good fit for an SQL database?
+   SQL Databases are best fit for heavy duty transactional type applications, as it is more stable and promises the atomicity as well as integrity of the dat
+
+###  Give a real world example.
+   Oracle.
+
+###  What kind of data is a good fit a NoSQL database?
+   NoSQL databases are fit for transactional applications.
+
+###  Give a real world example.
+   Amazo
+
+###  Which type of database is best for hierarchical data storage?
+   NoSQL
+   
+###  Which type of database is best for scalability?
+   SQL
 
 
 # video question sql vs nosql
