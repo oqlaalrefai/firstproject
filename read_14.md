@@ -35,7 +35,8 @@ OAuth is not the first authentication/authorization system to work this way on b
 openID is for humans logging into machines, OAuth is for machines logging into machines on behalf of humans.
 
 # Authorization and Authentication flows
-- Authentication	
+
+- Authentication
   - Determines whether users are who they claim to be
   - Challenges the user to validate credentials 
   - Usually done before authorization
@@ -65,4 +66,3 @@ What is Device Authorization Flow?
 
 What is Resource Owner Password Flow?
  its requests that users provide credentials (username and password), typically using an interactive form.
-
