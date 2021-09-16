@@ -6,7 +6,8 @@ my name is **Oqla Alrefai**, I graduated the last semester with a bachelor's deg
 CAD is now being used extensively in biomedical engineering in applications ranging so I have to expand my knowledge in programming.
 
 ## **Code 102 - Intro to Software Development**
-| # Table Of Content |
+
+| Table Of Content |
 | ----------- |
 | 1. [growth mindset](https://oqlaalrefai.github.io/reading-notes/growth) |
 | 2. [markdown](https://oqlaalrefai.github.io/reading-notes/read1) |
@@ -20,7 +21,8 @@ CAD is now being used extensively in biomedical engineering in applications rang
 
 this is my summary
 ## **Code 201 - Foundations of Software Development**
-| # Table Of Content for code 201 |
+
+| Table Of Content for code 201 |
 | ----------- |
 | 1. [HTML](https://oqlaalrefai.github.io/reading-notes/read8) |
 |  |
@@ -54,7 +56,8 @@ this is my summary
 |  |
 
 
-|  ## **Code 301 Intermediate Software Development** |                                                        |
+
+| Code 301 Intermediate Software Development |                                                                |
 | ----------------- | --------------------------------------------------------------------------------------- |
 | Num               | Link                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------- |
