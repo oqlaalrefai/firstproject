@@ -58,7 +58,6 @@ this is my summary
 
 # Code 301 Intermediate Software Development  
 
-| ----------------- | --------------------------------------------------------------------------------------- |
 | Num               | Link                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------- |
 | 1                 | [read_1](https://oqlaalrefai.github.io/reading-notes/read_1)                            |
@@ -76,5 +75,5 @@ this is my summary
 | 13                | [read_13](https://oqlaalrefai.github.io/reading-notes/read_13)                          |
 | 14                | [read_14](https://oqlaalrefai.github.io/reading-notes/read_14)                          |
 | 15                | [read_15](https://oqlaalrefai.github.io/reading-notes/read_15)                          |
-| ----------------- | --------------------------------------------------------------------------------------- |
+
 
