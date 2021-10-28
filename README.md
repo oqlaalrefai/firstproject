@@ -1,10 +1,11 @@
-# this profile for computer programming schoolarship
+# Reading Notes
 
 ## Welcome to my GitHub Pages
 Hello,
 my name is **Oqla Alrefai**, I graduated the last semester with a bachelor's degree in biomedical engineering from Yarmouk University.
 CAD is now being used extensively in biomedical engineering in applications ranging so I have to expand my knowledge in programming.
 
+this website for summarize everything related to computer programming schoolarship 
 ## **Code 102 - Intro to Software Development**
 
 | Table Of Content |
@@ -19,7 +20,6 @@ CAD is now being used extensively in biomedical engineering in applications rang
 | 8. [function JS](https://oqlaalrefai.github.io/reading-notes/read7) |
 
 
-this is my summary
 ## **Code 201 - Foundations of Software Development**
 
 | Table Of Content for code 201 |
@@ -56,7 +56,7 @@ this is my summary
 |  |
 
 
-# Code 301 Intermediate Software Development  
+## **Code 301 Intermediate Software Development**
 
 | Num               | Link                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------- |
@@ -75,5 +75,7 @@ this is my summary
 | 13                | [read_13](https://oqlaalrefai.github.io/reading-notes/read_13)                          |
 | 14                | [read_14](https://oqlaalrefai.github.io/reading-notes/read_14)                          |
 | 15                | [read_15](https://oqlaalrefai.github.io/reading-notes/read_15)                          |
+
+## **Code 401 - Advanced Software Development**
 
 
