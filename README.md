@@ -79,6 +79,6 @@ this website for summarize everything related to computer programming schoolarsh
 ## **Code 401 - Advanced Software Development**
 | Num               | Link                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------- |
-| 1                 | [read1](https://oqlaalrefai.github.io/reading-notes/read401/read1)                            |
-
+| 1                 | [read1](https://oqlaalrefai.github.io/reading-notes/read401/read1)                      |
+| 2                 | [read2](https://oqlaalrefai.github.io/reading-notes/read401/read2)                      |
 
