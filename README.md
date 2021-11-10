@@ -88,4 +88,4 @@ this website for summarize everything related to computer programming schoolarsh
 | 7                 | [read7](https://oqlaalrefai.github.io/reading-notes/read401/read7)                      |
 | 8                 | [read8](https://oqlaalrefai.github.io/reading-notes/read401/read8)                      |
 | 9                 | [read9](https://oqlaalrefai.github.io/reading-notes/read401/read9)                      |
-| 10                | [stack and queue](https://oqlaalrefai.github.io/reading-notes/read401/read10)           |
+| 10                | [stack and queue](https://oqlaalrefai.github.io/reading-notes/read401/stackQueue)       |
