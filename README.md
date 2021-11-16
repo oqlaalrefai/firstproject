@@ -92,4 +92,4 @@ this website for summarize everything related to computer programming schoolarsh
 | 11                | [read11](https://oqlaalrefai.github.io/reading-notes/read401/read11)                    |
 | 12                | [read12](https://oqlaalrefai.github.io/reading-notes/read401/read12)                    |
 | 13                | [read13](https://oqlaalrefai.github.io/reading-notes/read401/read13)                    |
-
+| 14                | [read14](https://oqlaalrefai.github.io/reading-notes/read401/read14)                    |
