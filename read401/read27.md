@@ -1,4 +1,4 @@
-
+# Django Models
 - Models define the structure of stored data, including the field types and possibly also their maximum size, default values, selection list options, help text for documentation, label text for forms, etc.
 - When designing your models it makes sense to have separate models for every "object" (a group of related information).
 - Once we've decided on our models and field, we need to think about the relationships. Django allows you to define relationships that are one to one (OneToOneField), one to many (ForeignKey) and many to many (ManyToManyField)
