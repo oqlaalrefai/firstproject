@@ -97,4 +97,5 @@ this website for summarize everything related to computer programming schoolarsh
 | 16                | [read15](https://oqlaalrefai.github.io/reading-notes/read401/read15)                    |
 | 17                | [read16](https://oqlaalrefai.github.io/reading-notes/read401/read16)                    | 
 | 18                | [read17](https://oqlaalrefai.github.io/reading-notes/read401/read17)                    | 
-| 19                | [read18](https://oqlaalrefai.github.io/reading-notes/read401/read18)                    |
+| 19                | [read26](https://oqlaalrefai.github.io/reading-notes/read401/read26)                    | 
+| 20                | [read27](https://oqlaalrefai.github.io/reading-notes/read401/read27)                    | 
